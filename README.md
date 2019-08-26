@@ -1,5 +1,6 @@
 # Coding-Traing
-**20190826** 
+**20190826**
+
 Introduction to Python
 - Installation
 - Input & Print
