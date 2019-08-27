@@ -56,3 +56,13 @@ Dur2 = setDuration(int(input("Enter duration #2 (in minutes):")))
 print("Duration #1: {} days {} hours {} minutes".format(Dur1[0],Dur1[1],Dur1[2]))
 print("Duration #2: {} days {} hours {} minutes".format(Dur2[0],Dur2[1],Dur2[2]))
 print("The two durations are {} minutes apart.".format(toMinutes(Dur2)-toMinutes(Dur1)))
+
+print("***********Exercise 4*************")
+def recursive_pow(x,n):
+    if n == 1:
+        return x
+    elif n % 2 == 0:
+        return recursive_pow(x * x, n/2)
+    else:
+        return x * recursive_pow(x, n-1)
+    
