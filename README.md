@@ -5,3 +5,9 @@
 - Input & Print
 - Numbers and numerics
 - Loop: if & while
+
+**20190827:** Basic
+
+- String
+- List
+- Function
