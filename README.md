@@ -11,3 +11,8 @@
 - String
 - List
 - Function
+
+**20190828:** Pickle & Dictionary
+
+- Pickle
+- Dictionary
