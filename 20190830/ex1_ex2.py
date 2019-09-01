@@ -95,12 +95,3 @@ res2 = list(map(lambda x: x+1, a))
 res3 = [x for x in filter(lambda x: x <= 5, a)]
 res4 = [x for x in filter(lambda x: x % 2 == 0, list(map(lambda x: x*x, a)))]  
 ##########################EX 2##############################    
-    
-##########################EX 3############################## 
-   
-with open(input_filename, 'r') as f:
-    
-    with open(output_filename, 'w') as f:
-    
-    
-    
