@@ -16,3 +16,15 @@
 
 - Pickle
 - Dictionary
+
+**20190929:** Function & OOP
+
+- Function
+- OOP
+
+**20190930:** Modules & String
+
+- Modules
+- String
+- IO
+p.s. Decorators in ex4
